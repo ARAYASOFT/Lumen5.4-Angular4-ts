@@ -13,6 +13,9 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 Change TypeScript Gulp compiler <a href='https://github.com/gradosevic/laravel-elixir-ts'>laravel-elixir-ts</a> <br>
 resources/assets/typscript to public/app
 
+Chang Url Router to HashBang(#)<br>
+public/#/dashboard
+
 ## Install
 - composer Install
 - npm install
