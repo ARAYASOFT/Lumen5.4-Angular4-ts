@@ -1,4 +1,4 @@
-# Lumen 5.4.6 PHP Framework + Angular4
+# Lumen 5.4.6 + Angular4
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
@@ -16,9 +16,10 @@ resources/assets/typscript to public/app
 Chang Url Router to HashBang(#)<br>
 public/#/dashboard
 
+Chang Url Router to HashBang(#)
+public/#/dashboard
+
 ## Install
 - composer Install
 - npm install
-- copy change .env.example to .env
-- php artisan key:generate
 - Gulp && Gulp Watch
